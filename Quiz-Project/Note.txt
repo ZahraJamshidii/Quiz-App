@@ -1,0 +1,5 @@
+1)cd Quiz-Project
+2).\venv\Scripts\activate
+python manage.py runserver
+
+3)HTML -> open live server
